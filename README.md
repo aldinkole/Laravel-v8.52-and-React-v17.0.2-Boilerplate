@@ -4,13 +4,14 @@
 ## How to install ?
 
 
-1. <code>Install Composer</code>
-After You installed <code>Composer</code> open project folder and terminal and add following command!
-2. <code>composer install</code> This will install all dependencies for Laravel
-3. <code>npm install</code> This will install all dependencies for React
-4. Create <code>.env</code> file or duplicate <code>.env.example</code> but make sure it's called .env and and run this command <code>php artisan key:generate</code>
-5. <code>php artisan serve</code> Start laravel server
-6. <code>npm run watch</code> Open new terminal and start this command to watch changes you apply to your React
+1. <code>Install Composer</code> if you don't have it on your machine.
+After You installed <code>Composer</code> open terminal and navigate to project folder and run following commands!
+2. <code>composer install</code> This will install all dependencies for Laravel.
+3. <code>Install node.js</code>  if you don't have it on your machine.
+4. <code>npm install</code> This will install all dependencies for React 
+5. Create <code>.env</code> file or duplicate <code>.env.example</code> but make sure it's called .env and and run this command <code>php artisan key:generate</code>
+6. <code>php artisan serve</code> Start laravel server
+7. <code>npm run watch</code> Open new terminal and start this command to watch changes you apply to your React
 
 ## Contact
 
