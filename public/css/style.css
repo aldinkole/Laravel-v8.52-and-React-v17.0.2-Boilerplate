@@ -1,0 +1,51 @@
+.info {
+    width: 800px;
+    margin: auto;
+    padding: 30px 20px 30px 30px;
+    border:1px solid #616161;
+    border-radius: 5px;
+}
+
+.info h5 {
+
+    letter-spacing: 1px;
+}
+
+.info p {
+    color: #fff;
+}
+
+.react {
+    color: #61dbfb !important;
+}
+
+.laravel {
+    color: #ef3b2d !important;
+}
+
+.doc-section {
+    width: 800px;
+    margin: auto;
+    padding: 30px 20px 30px 30px;
+    border:1px solid #616161;
+    border-radius: 5px;
+}
+
+.doc-section p,h3,h4,h5 {
+    color: #fff;
+}
+
+.not-found {
+    margin: 0;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+}
+
+.not-found h1 {
+    font-size: 50px;
+}
+
+
