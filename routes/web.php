@@ -16,7 +16,7 @@ use Illuminate\Support\Facades\Route;
 |--------------------------------------------------------------------------
 | React Info
 |--------------------------------------------------------------------------
-| The "/{path?}" in route is to prevent error 404 when you
+| The "/{any}" in route is to prevent error 404 when you
 | reload page on routes that are added with react-router-dom
 
 */
